@@ -11,4 +11,4 @@ git push origin main
 
 Have fun and hopefully we learn how to add to the front page of the AI OSPE app.
 
-* *-Yuki* *
+*-Yuki*
